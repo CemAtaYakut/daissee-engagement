@@ -1,1 +1,8 @@
-
+tensorflow
+opencv-python
+pandas
+matplotlib
+scikit-learn
+mediapipe
+notebook
+jupyterlab
